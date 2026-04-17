@@ -11,10 +11,16 @@ I detta projekt är syftet däremot renodlat prediktivt – målet är inte att 
 
 1. Data
 
+2. Feature engineering
+Ta bort listing_price
+Skapa nya variabler:
+ - avstånd till Malmö C och hav/strand? 
+ - pris per kvadratmeter = huspris / driftkostnad
+ - Lägg till styrräntan i relation till säljdatum (kanske skapa någon fördröjning 3-6 månader?)
+ - 
 
 
-
-
+Datamaterialet kan indelas i följande variabeltyper: strukturella egenskaper (boarea, antal rum, tomtstorlek byggår och driftkostnad), geografiska egenskaper (avstånd till kollektivtrafik, avstånd till hav samt grannskap) och makroekonomiska faktorer (styrränta).
    
 INSPIRATION för uppsatsen ! maklarstatistik.se
 
