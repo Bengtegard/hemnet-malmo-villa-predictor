@@ -10,8 +10,13 @@ Det föregående projektet hade ett förklarande syfte, där regressionsmodellen
 I detta projekt är syftet däremot renodlat prediktivt – målet är inte att tolka enskilda variablers effekt, utan att erhålla en så träffsäker uppskattning som möjligt av försäljningspriset utifrån aktiva annonser på Hemnet.
 
 1. Data
-   
 
+
+
+
+
+   
+INSPIRATION för uppsatsen ! maklarstatistik.se
 
 
 ## Dataanalys och features
