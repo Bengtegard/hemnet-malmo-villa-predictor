@@ -20,7 +20,7 @@ Skapa nya variabler:
  - 
 
 
-Datamaterialet kan indelas i följande variabeltyper: strukturella egenskaper (boarea, antal rum, tomtstorlek byggår och driftkostnad), geografiska egenskaper (avstånd till kollektivtrafik, avstånd till hav samt grannskap) och makroekonomiska faktorer (styrränta).
+Datamaterialet kan indelas i följande variabeltyper: strukturella egenskaper (boarea, antal rum, tomtstorlek byggår, och driftkostnad), geografiska egenskaper (avstånd till kollektivtrafik, avstånd till hav samt grannskap) och makroekonomiska faktorer (styrränta).
    
 INSPIRATION för uppsatsen ! maklarstatistik.se
 
