@@ -1,6 +1,6 @@
 # Tankelinjer för examensprojektet
 
-Projektet ämnar till största del att öka min nuvarande kunskap gällande statistisk modellering, samt att få möjlighet att produktionssätta en prediktionsmodell i en Shiny-app. 
+Projektet ämnar  öka min nuvarande kunskap gällande statistisk modellering, samt att få möjlighet att produktionssätta en prediktionsmodell i en Shiny-app. 
 Inspiration hämtades från en tidigare multipel regressionsansats som skattade effekten av olika egenskaper på försäljningspriset för villor i Malmö – ett arbete som väckte intresset för att utforska området ytterligare.
 
 Shmueli (2010) belyser en central distinktion inom statistisk modellering – skillnaden mellan att förklara och att predicera. 
